@@ -1,4 +1,4 @@
-{
+{923131507517}
   "name": "Queen Anita V4",
   "description": "A WhatsApp Bot Created By David Cyril",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
@@ -49,9 +49,9 @@
       "value": "false",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {923131507517
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "923028895289"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
